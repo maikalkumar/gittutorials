@@ -4,3 +4,4 @@ It is a general-purpose programming language intended to
 
 let programmers write once, run anywhere (WORA), 
 meaning that I will definately be a good programmer
+all of my student is good programmer
