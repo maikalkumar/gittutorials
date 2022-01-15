@@ -3,4 +3,4 @@ programming language that is designed to have as few implementation dependencies
 It is a general-purpose programming language intended to 
 
 let programmers write once, run anywhere (WORA), 
-meaning that 
+meaning that I will be a good programmer
